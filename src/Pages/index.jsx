@@ -1,7 +1,7 @@
 const Pages = () => {
     return (
         <>
-            AMAN
+            AMA
         </>
     )
 }
